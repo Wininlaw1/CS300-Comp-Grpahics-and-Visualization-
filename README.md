@@ -12,8 +12,10 @@ What new development strategies did you use while working on your 3D scene?
 How did iteration factor into your development?
 How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
 
-To approah developing programs i make sure there is not error in my code. Some new development straegies i used was adding libary i havent used before to make sure the shapes mesh was added. 
+To approah developing programs i make sure there is not error in my code. Some new development straegies i used was adding libary i havent used before to make sure the shapes mesh was added. Now starting from the begining of this course i found unique ways to add iteration facor into my development. By going every week along with the assigments i was able to make sure by the time the project was due i would be more then done with editing my project. My use of developing code evolved throughout the milestones by getting more focus and understanding each milestone. Playng around with things , email the teacher when needed for comformation, and checking constantly for errors. 
 
 How can computer science help me in reaching my goals?
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+
+Computer Science can help me in reaching my goals by understanding how to make games and wireframes the best way i can. Making me a professional at not only coding my mobile applications but designing what i coded for properly. OpenGl will be useful with visualizations within data. This skills will make me the best UX/UI Designer i can be.
